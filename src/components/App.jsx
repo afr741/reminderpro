@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Button from 'react-bootstrap/Button';
 import '../App.css';
+
 class App extends Component {
   render(){
 
@@ -20,7 +21,7 @@ class App extends Component {
             type = "button"
             className  ="bt btn-success"
           >
-          Add Reminder
+          Add Reminder SUCKER
           </button>
         </div>
       </div>
