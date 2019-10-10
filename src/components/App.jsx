@@ -8,6 +8,8 @@ class App extends Component {
     return(
       <div className = "App">
         <div className = "title">
+        Reminde
+        <div className = "title">
         Reminder Pro
         </div>
         <div className = "form-inline">
