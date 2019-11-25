@@ -31,7 +31,6 @@ class App extends Component {
     );
   }
   render() {
-    console.log('this.props', this.props);
     return (
       <div className='App'>
         <div className='title'>Reminder Pro</div>
@@ -56,6 +55,7 @@ class App extends Component {
     );
   }
 }
+
 function mapStateToProps(state) {
   console.log('Map state to Props state', state);
   return {
