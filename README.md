@@ -2,6 +2,7 @@
 
 - a nice little app which allows you to know what you need to do and when you need to do.
 - built using ReactJS, Redux, bootstrap and sfcookies.
+- You can try the app at https://react-reminderpro.netlify.com/
 
 ## Getting Started
 
