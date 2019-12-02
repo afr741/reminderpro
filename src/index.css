@@ -6,7 +6,8 @@
 }
 .title {
   text-align: center;
-  font-size: 26p;
+  font-size: 50px;
+  color: white;
 }
 
 button {
@@ -26,4 +27,12 @@ input {
 .delete-button {
   float: right;
   padding-left: 5px;
+  font-size: 30px;
+}
+
+body {
+  background: url('../src/assets/bgimage.jpg');
+  background-size: cover;
+  background-position: top;
+  background: cover;
 }
